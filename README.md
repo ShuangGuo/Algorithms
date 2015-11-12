@@ -1,2 +1,2 @@
-# LeetCode-And-LintCode
-It includes algorithm solutions from LeetCode and LintCode.
+# Algorithms
+It includes algorithm solutions using Java.
